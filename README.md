@@ -5,6 +5,7 @@ The configurations are automated and synchronized across systems using [chezmoi]
 
 ## Core Stack
 
+* **Compositor:** [Hyprland](https://hypr.land/)
 * **Dotfiles Manager:** [chezmoi](https://www.chezmoi.io/)
 * **File Manager:** [Yazi](https://yazi-rs.github.io/)
 * **Shell:** [Fish Shell](https://fishshell.com/)
