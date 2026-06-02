@@ -1,0 +1,21 @@
+[init]
+	defaultBranch = main
+[user]
+	name = llawn
+  email = llawn06@gmail.com
+  # GPG key ID is public safe to push 
+	signingkey = 193B47B0155D4F9F
+[core]
+	editor = nvim
+[url "git@github.com:"]
+	insteadOf = https://github.com/
+[pull]
+	rebase = false
+[commit]
+	gpgsign = true
+[tag]
+	gpgSign = true
+[gpg]
+	program = gpg
+[gpg "ssh"]
+	allowedSignersFile = /home/llawn/.ssh/allowed_signers
