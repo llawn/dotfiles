@@ -1,0 +1,8 @@
+[window]
+opacity = 0.8
+blur = true
+
+[font]
+
+normal = { family = "MesloLGS NF", style = "Regular" }
+size = 11
